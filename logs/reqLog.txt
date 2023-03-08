@@ -1,0 +1,14 @@
+3/8/2023	b629e9f9-ad71-4941-a58c-ea0b12ee6687	/	GET	
+3/8/2023	192b637f-6070-4a06-a329-70394a4a08ea	/css/style.css	GET	
+3/8/2023, 7:46:21 PM	64ff95f1-bc79-40d5-8500-056e8e31d162	/	GET	
+3/8/2023, 7:46:21 PM	171be3d1-c417-4f27-82f7-c295009ba57f	/css/style.css	GET	
+3/9/2023, 12:54:57 AM	20493d66-6752-41dd-874c-450e8aa915f1	/new-page.html	GET	
+3/9/2023, 12:54:57 AM	b33bbff9-4700-4cbf-842e-3c62a634198f	/css/style.css	GET	
+3/9/2023, 12:54:57 AM	d6cb4913-472e-4dcf-8fb1-59f56cf8eb65	/images/nature.jpeg	GET	
+3/9/2023, 12:55:57 AM	8106640f-b307-4d15-ba5c-4c99cbd44df4	/new-page.html	GET	
+3/9/2023, 12:55:57 AM	97fa5355-706e-41a5-93a0-d83ad489917d	/css/style.css	GET	
+3/9/2023, 12:55:57 AM	c1657d83-0838-4b75-8f5a-7a9fa7fabe00	/images/nature.jpeg	GET	
+3/9/2023, 12:56:51 AM	f9f210e4-9894-446f-8faa-b7cffb92afdc	/new-page.html	GET	
+3/9/2023, 12:57:21 AM	5f7d2a5e-260d-455a-8ab5-37e0e22acc41	/new-page.html	GET	
+3/9/2023, 12:57:21 AM	7cb9073d-c1c3-499e-a77d-5439079082ba	/css/style.css	GET	
+3/9/2023, 12:57:21 AM	11d20119-82bb-4d9c-9d8d-9173686b6744	/images/nature.jpeg	GET	
